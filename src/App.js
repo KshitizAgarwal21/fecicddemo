@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Welcome to Devops with AWS12
+          Welcome to Devops with AWS
         </a>
       </header>
     </div>
